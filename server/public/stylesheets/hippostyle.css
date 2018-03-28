@@ -1,0 +1,27 @@
+
+body {
+  margin-left: 30px;
+  background-color: #ccff33
+}
+h1 {
+  color: #0000FF;
+  font-size: 10vw;
+  font-family: Arial, Helvetica, sans-serif;
+}
+h2 {
+  color: #FF0000;
+  font-size: 4vw;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: italic;
+}
+ul {
+  color: #FF0000;
+  font-size: 3vw;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bolder;
+}
+p {
+  font-family: 'Nanum Pen Script';
+  font-size: 3vw;
+  font-weight: bolder;
+}
